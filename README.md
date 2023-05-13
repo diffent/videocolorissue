@@ -18,3 +18,5 @@ the required flags are set for AVAssetReaderTrackOutput
 
 this is just a demo for color matching, image orientations and video
 orientations are not handled.  
+
+tested on xcode13.4.1
